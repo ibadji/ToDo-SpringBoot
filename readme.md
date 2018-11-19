@@ -1,11 +1,3 @@
-# Full stack Vaadin and Spring Boot demo app
-
-![Vaadin and Spring Boot example with JPA and H2](screenshot.png)
-
-## Running
-
-You can run the project with 
-
-```
-mvn package spring-boot:run
-```
+# Spring Boot ToDo Tutorial
+## Application of the tutorial [Spring Boot](Spring Boot and Vaadin full stack application tutorial (Vaadin 7))
+This code represent the execution of the tutorial in the link above.
